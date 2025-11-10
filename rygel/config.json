@@ -14,5 +14,6 @@
     "amd64",
     "armv7",
     "aarch64"
-  ]
+  ],
+  "image": "ghcr.io/jurajlaser/rygel:latest"
 }
